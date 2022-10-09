@@ -1,11 +1,11 @@
 body{
-background-color:wheat(255, 166, 0) ;
+background-color:blanchedalmond(255, 166, 0) ;center;
 }
 
 
 h1{
 color:rgb(0, 0, 0) ;
-font-family:Arial, Helvetica, sans-serif;
+font-family:Arial, Helvetica, sans-serif;center;
 background:rgb(253, 146, 140) ;
 }
 
@@ -13,6 +13,6 @@ background:rgb(253, 146, 140) ;
 p{
 color:rgb(30, 30, 20) ;
 font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
-font-size:initial ;
+font-size:initial ;center
 background:rgb(252, 252, 252) ;
 }
