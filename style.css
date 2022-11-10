@@ -4,13 +4,12 @@ background-color:rgb(0, 0, 0) ;
 }
 
 
- h1{
-color:rgb(25, 25, 25) ;
-font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
-text-align: center;
-background:rgb(255, 255, 255) ;
-}
-
+h1{
+    color:white ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background:white;
+    }
+    
 
 p{
 color:rgb(255, 255, 255);
