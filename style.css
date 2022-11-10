@@ -1,19 +1,21 @@
+
 body{
-background-color:black (255 0, 0)
+background-color:black ;
 }
 
 
-h1{
-color:white    (255, 255, 255) ;
-font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-background:black (255, 0, 0);
+ h1{
+color:yellow ;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+background: ;
 }
 
 
 p{
-color:black    (0, 0, 0) ;
-font-family:Georgia, 'Times New Roman', Times, serif,
-background:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+color:white;
+font-family:Arial, Helvetica, sans-serif ;
+font-size:arial ;
+background: ;
 }
 #PUMA {
     width: 100%;
