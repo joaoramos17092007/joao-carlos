@@ -1,12 +1,12 @@
 body{
-background-color:black rgb(255 0, 0)
+background-color:black (255 0, 0)
 }
 
 
 h1{
-color:rgb(255, 255, 255) ;
+color:white    (255, 255, 255) ;
 font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-background:rgb(255, 0, 0);
+background:black (255, 0, 0);
 }
 
 
