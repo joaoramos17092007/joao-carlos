@@ -5,9 +5,9 @@ background-color:rgb(0, 0, 0) ;
 
 
 h1{
-    color:white ;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    background:white;
+color:white ;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background:white;
     }
     
 
@@ -19,4 +19,8 @@ background:white (255, 255, 255) ;
 }
 #PUMA {
     width: 100%;
+}
+.container{
+    width: 10%;
+    margin: 0 auto;
 }
