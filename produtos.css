@@ -3,15 +3,15 @@ body{
     }
     
     h1{
-    color:blue ;
+    color:rgb(255, 255, 255) ;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
-    background:blue ;
+    background:rgb(255, 255, 255) ;
     }
     
     p{
     color:black ;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: ;
-    background: ;
+    font size:20px; 
+    background:black ;
     }
     
