@@ -1,13 +1,13 @@
 
 body{
-background-color:rgb(0, 0, 0) ;
+background-color:rgb(255, 255, 255) ;
 }
 
 
 h1{
-color:white ;
+color:rgb(0, 0, 0) ;
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-background:white;
+background:rgb(0, 0, 0);
     }
     
 
